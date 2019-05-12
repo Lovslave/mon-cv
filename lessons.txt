@@ -1,0 +1,30 @@
+atribute
+	size
+	align
+	color
+	noshade
+
+self closing tag
+	<br> lane break
+	<hr> horizontal rule
+	<meta charset= "utf-"8
+		decription
+	<input>
+		type = submit, password, text, etc see en MDN.com
+
+most closed tag
+	<a> link
+	<em> italisize
+	<center> centre
+	<form>
+		<label>
+	<p> paragraphe
+	<strong> gras
+	<ul> step de list et suivie par <li> pour chaque element de la liste
+	<ol> order liste et suivie par <li> pour chaque element de la liste
+	<table>
+		<tr> rows
+			<td> element
+			<th> si titre du tableau
+	<textarea>
+<!-- comment on html-->
